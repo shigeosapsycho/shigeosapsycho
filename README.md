@@ -8,7 +8,7 @@
 
 I am currently pursuing my B.S. in Computer Science **and** Finance at the [university](https://www.csulb.edu/ "California State University of Long Beach") I attend.
 
-When I am not actively engaged in anything Computer or Computer Science related, I like to spend time socializing and spending time with my girlfriend. I also enjoy listening to music, driving, and eating at new places while trying new things!
+When I am not actively engaged in anything Computer or Computer science-related, I like to socialize and spend time with my girlfriend. I also enjoy listening to music, driving, and eating at new places while trying new things!
 
 <sub>*Last updated: October, 2 2024*</sub>
 
@@ -22,6 +22,7 @@ When I am not actively engaged in anything Computer or Computer Science related,
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 #### Operating Systems
 
