@@ -10,7 +10,7 @@ I am currently pursuing my B.S. in Computer Science **and** Finance at the [univ
 
 When I am not actively engaged in anything Computer or Computer science-related, I like to socialize and spend time with my girlfriend. I also enjoy listening to music, driving, and eating at new places while trying new things!
 
-<sub>*Last updated: October, 2 2024*</sub>
+<sub>*Last updated: October, 8 2024*</sub>
 
 ### :hammer: Technologies
 
