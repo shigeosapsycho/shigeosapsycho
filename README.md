@@ -8,7 +8,7 @@
 
 I am currently pursuing my B.S. in Computer Science **and** Finance at the [university](https://www.csulb.edu/ "California State University of Long Beach") I attend.
 
-When I am not actively engaged in anything Computer or Computer science-related, I like to socialize and spend time with my girlfriend. I also enjoy listening to music, driving, and eating at new places while trying new things!
+When I am not actively engaged in computer-related activities, I enjoy socializing and spending time with friends. I also enjoy listening to music, driving, and trying new things while eating at different places. I also try to maintain a healthy lifestyle by going to the gym and eating a balanced diet.
 
 <sub>*Last updated: October, 8 2024*</sub>
 
@@ -43,7 +43,7 @@ When I am not actively engaged in anything Computer or Computer science-related,
 
 ### :calling: Contact
 
-The best place to contact me is through **LinkedIn** which can be found [here](https://www.linkedin.com/in/milktbrandon/ "my LinkedIn")! 
+The best place to contact me is through **LinkedIn**, which can be found [here](https://www.linkedin.com/in/milktbrandon/ "my LinkedIn")! 
 
 ---
 
