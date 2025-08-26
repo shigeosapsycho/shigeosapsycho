@@ -8,8 +8,7 @@
 
 I am currently pursuing my B.S. in Computer Science **and** Finance at the [university](https://www.csulb.edu/ "California State University of Long Beach") I attend.
 
-When I am not actively engaged in computer-related activities, I enjoy socializing and spending time with friends. I also enjoy listening to music, driving, and trying new things while eating at different places. I also try to maintain a healthy lifestyle by going to the gym and eating a balanced diet.
-
+When I am not actively engaged in computer-related activities, I enjoy socializing and spending time with friends. I also enjoy listening to music, driving, and trying new things while eating at different places. I also try to maintain a healthy lifestyle by going to the gym and eating a balanced diet. Another hobby of mine is collecting Pokémon cards.
 <sub>*Last updated: October, 8 2024*</sub>
 
 ### :hammer: Technologies
