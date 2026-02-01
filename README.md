@@ -6,13 +6,13 @@
 
 ### :dart: Current Focus
 
-I am currently pursuing my B.S. in Computer Science **and** Finance at the [university](https://www.csulb.edu/ "California State University of Long Beach") I attend.
+I am currently pursuing my B.S. in Computer Science at the [university](https://www.csulb.edu/ "California State University of Long Beach") I attend.
 
 When I am not actively engaged in computer-related activities, I enjoy socializing and spending time with friends. I also enjoy listening to music, driving, and trying new things while eating at different places. I also strive to maintain a healthy lifestyle by exercising at the gym and eating a balanced diet. Another hobby of mine is collecting Pokémon cards.
 
 > "Veni Vidi Vici"
 
-<sub>*Last updated: September, 30 2025*</sub>
+<sub>*Last updated: February, 1 2026*</sub>
 
 ### :hammer: Technologies
 
