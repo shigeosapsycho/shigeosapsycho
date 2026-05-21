@@ -8,11 +8,11 @@
 
 I am currently pursuing my B.S. in Computer Science at the [university](https://www.csulb.edu/ "California State University of Long Beach") I attend.
 
-When I am not actively engaged in computer-related activities, I enjoy socializing and spending time with friends. I also enjoy listening to music, driving, and trying new things while eating at different places. I also strive to maintain a healthy lifestyle by exercising at the gym and eating a balanced diet. Another hobby of mine is collecting Pokémon cards.
+I am mostly interested in QoL software to make your life easier by automating tasks. I am also into retail automation.
 
 > "Veni Vidi Vici"
 
-<sub>*Last updated: February, 16 2026*</sub>
+<sub>*Last updated: May 21, 2026*</sub>
 
 ### :hammer: Technologies
 
@@ -26,6 +26,7 @@ When I am not actively engaged in computer-related activities, I enjoy socializi
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 #### Operating Systems
 
