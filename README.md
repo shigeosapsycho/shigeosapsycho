@@ -1,11 +1,5 @@
 ## Hello :wave:! I'm shigeosapsycho!
-
-### Introduction
-
-
-
 ### Current Focus
-
 I am currently pursuing my B.S. in Computer Science at the [university](https://www.csulb.edu/ "California State University of Long Beach") I attend.
 
 I am mostly interested in QoL software to make your life easier by automating simple to complex tasks. I am also into retail automation and trading cards like Pokemon, Riftbound, & One Piece.
@@ -13,8 +7,6 @@ I am mostly interested in QoL software to make your life easier by automating si
 > "Veni Vidi Vici"
 
 <sub>*Last updated: May 23, 2026*</sub>
-
-### Technologica
 
 #### Programming Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -28,24 +20,13 @@ I am mostly interested in QoL software to make your life easier by automating si
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-#### Operating Systems
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
 #### Development Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
 *([thanks to this repository for badges!](https://github.com/Ileriayo/markdown-badges))*
-
-### :calling: Contact
-
-The best place to contact me is through **LinkedIn**, which can be found [here](https://www.linkedin.com/in/milktbrandon/ "my LinkedIn")! 
 
 ---
 
