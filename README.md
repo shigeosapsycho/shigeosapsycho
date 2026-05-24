@@ -4,17 +4,17 @@
 
 
 
-### :dart: Current Focus
+### Current Focus
 
 I am currently pursuing my B.S. in Computer Science at the [university](https://www.csulb.edu/ "California State University of Long Beach") I attend.
 
-I am mostly interested in QoL software to make your life easier by automating tasks. I am also into retail automation.
+I am mostly interested in QoL software to make your life easier by automating simple to complex tasks. I am also into retail automation and trading cards like Pokemon, Riftbound, & One Piece.
 
 > "Veni Vidi Vici"
 
-<sub>*Last updated: May 21, 2026*</sub>
+<sub>*Last updated: May 23, 2026*</sub>
 
-### :hammer: Technologies
+### Technologica
 
 #### Programming Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
