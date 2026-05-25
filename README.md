@@ -6,7 +6,7 @@ I am mostly interested in QoL software to make your life easier by automating si
 
 > "Veni Vidi Vici"
 
-<sub>*Last updated: May 23, 2026*</sub>
+<sub>*Last updated: May 25, 2026*</sub>
 
 #### Programming Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -26,6 +26,7 @@ I am mostly interested in QoL software to make your life easier by automating si
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
 *([thanks to this repository for badges!](https://github.com/Ileriayo/markdown-badges))*
 
 ---
